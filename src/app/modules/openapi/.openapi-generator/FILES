@@ -1,0 +1,17 @@
+.gitignore
+README.md
+api.base.service.ts
+api.module.ts
+api/api.ts
+api/product.service.ts
+api/product.serviceInterface.ts
+configuration.ts
+encoder.ts
+git_push.sh
+index.ts
+model/create-product-request.ts
+model/error-message.ts
+model/models.ts
+model/product.ts
+param.ts
+variables.ts
